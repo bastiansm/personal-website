@@ -45,7 +45,7 @@ const Project = () => {
                         <ProjectIcon><DiJavascript1 size={20} /></ProjectIcon>
                     </div>
                     <div className="item-wrap">
-                        <ParaText weight="600">Project 1</ParaText>
+                        <ParaText weight="600">Project 1 (Soon)</ParaText>
                         <ParaText variant="grey">Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic, enim!</ParaText>
                     </div>
                 </ProjectItem>
@@ -64,7 +64,7 @@ const Project = () => {
                         <ProjectIcon><DiJavascript1 size={20} /></ProjectIcon>
                     </div>
                     <div className="item-wrap">
-                        <ParaText weight="600">Project 1</ParaText>
+                        <ParaText weight="600">Project 2 (Soon)</ParaText>
                         <ParaText variant="grey">Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic, enim!</ParaText>
                     </div>
                 </ProjectItem>
@@ -83,7 +83,7 @@ const Project = () => {
                         <ProjectIcon><DiJavascript1 size={20} /></ProjectIcon>
                     </div>
                     <div className="item-wrap">
-                        <ParaText weight="600">Project 1</ParaText>
+                        <ParaText weight="600">Project 3 (Soon)</ParaText>
                         <ParaText variant="grey">Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic, enim!</ParaText>
                     </div>
                 </ProjectItem>
